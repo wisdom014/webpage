@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/webpage/static/css/main.7f11119a.css",
+    "main.js": "/webpage/static/js/main.ad53c019.js",
+    "static/media/Fractal.jpg": "/webpage/static/media/Fractal.5849941c44b3b67bd7cb.jpg",
+    "static/media/about.jpg": "/webpage/static/media/about.b82e10194e25945ebfe6.jpg",
+    "static/media/Fuchsia.jpeg": "/webpage/static/media/Fuchsia.cfd2452de839439c1b3c.jpeg",
+    "static/media/hero.jpeg": "/webpage/static/media/hero.6a2e99accf2ed63a4447.jpeg",
+    "static/media/Darkshell.jpeg": "/webpage/static/media/Darkshell.edd72926038a2b5468b9.jpeg",
+    "static/media/Darkmist.jpg": "/webpage/static/media/Darkmist.5f1da018862705f39f9c.jpg",
+    "static/media/man-using-smartphone-svgrepo-com.svg": "/webpage/static/media/man-using-smartphone-svgrepo-com.6e2862b8f362f38831ae.svg",
+    "static/media/instagram.svg": "/webpage/static/media/instagram.89ec4301e5d6dfea7b72c8e759837405.svg",
+    "static/media/linkedin.svg": "/webpage/static/media/linkedin.259f6ef4db6fcae69e84eccfec438a5d.svg",
+    "static/media/man-dark-skin-tone-svgrepo-com.svg": "/webpage/static/media/man-dark-skin-tone-svgrepo-com.e2699ec8d2474425629e040d0d49015f.svg",
+    "index.html": "/webpage/index.html",
+    "static/media/facebook.svg": "/webpage/static/media/facebook.4dfa1cb6c76432c43cab7eb8f75593c7.svg",
+    "static/media/whatsapp.svg": "/webpage/static/media/whatsapp.663fff2cf86356b717c76abf11fdbfd4.svg",
+    "static/media/twitter.svg": "/webpage/static/media/twitter.5e8c2c32993ee7701f058c52f2470260.svg",
+    "main.7f11119a.css.map": "/webpage/static/css/main.7f11119a.css.map",
+    "main.ad53c019.js.map": "/webpage/static/js/main.ad53c019.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f11119a.css",
+    "static/js/main.ad53c019.js"
+  ]
+}
