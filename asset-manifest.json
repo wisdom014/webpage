@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webpage/static/css/main.7f11119a.css",
+    "main.css": "/webpage/static/css/main.201e3c5d.css",
     "main.js": "/webpage/static/js/main.ad53c019.js",
     "static/media/Fractal.jpg": "/webpage/static/media/Fractal.5849941c44b3b67bd7cb.jpg",
     "static/media/about.jpg": "/webpage/static/media/about.b82e10194e25945ebfe6.jpg",
@@ -16,11 +16,11 @@
     "static/media/facebook.svg": "/webpage/static/media/facebook.4dfa1cb6c76432c43cab7eb8f75593c7.svg",
     "static/media/whatsapp.svg": "/webpage/static/media/whatsapp.663fff2cf86356b717c76abf11fdbfd4.svg",
     "static/media/twitter.svg": "/webpage/static/media/twitter.5e8c2c32993ee7701f058c52f2470260.svg",
-    "main.7f11119a.css.map": "/webpage/static/css/main.7f11119a.css.map",
+    "main.201e3c5d.css.map": "/webpage/static/css/main.201e3c5d.css.map",
     "main.ad53c019.js.map": "/webpage/static/js/main.ad53c019.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f11119a.css",
+    "static/css/main.201e3c5d.css",
     "static/js/main.ad53c019.js"
   ]
 }
